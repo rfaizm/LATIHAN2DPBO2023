@@ -25,7 +25,8 @@ Pada class `Mahasiswa` terdapat tiga atribut, dan INHERITANCE terhadap class `Ak
 
 
 
-
+##Dokumentasi
+![latian2](https://user-images.githubusercontent.com/100756074/218931624-f1cdf5e4-8cfe-46e9-8ec5-97d88bef5ad9.png)
 
 
 
